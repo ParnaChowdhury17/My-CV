@@ -1,0 +1,172 @@
+body
+{
+  text-align:center;
+}
+.Upper
+{
+  background-color: #edfeff;
+}
+h1
+{
+  color:#005c61;
+  padding-top: 100px;
+  font-size: 75px;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
+h2
+{
+  color: #21979e;
+  font-size: 55px;
+  text-align: center;
+  font-family: 'Nunito Sans', sans-serif;
+}
+h3
+{
+  color: #3abfc7;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 70px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+p
+{
+  font-size: 18px;
+  color: #2e3536;
+  line-height: 2;
+  font-family: 'Merriweather', serif;
+}
+.Upper-cloud
+{
+  position: absolute;
+  left: 300px;
+  top: 100px;
+}
+.Lower-cloud
+{
+  position: absolute;
+  right: 300px;
+  bottom: 250px;
+}
+.Heading
+{
+  margin-top: 0;
+}
+.Image1
+{
+  margin: auto;
+  margin: 50px auto 10px auto;
+  border-radius: 100%;
+}
+.Middle
+{
+  width: 30%;
+  margin: 0 auto;
+  text-align: left;
+}
+hr
+{
+  border-style: dotted none none;
+  border-color: #a6b3b3;
+  border-width: 10px;
+  height: 0;
+  width: 20%;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+.Book-img
+{
+  width: 40%;
+  float: left;
+  margin-right: 20px;
+}
+.Code-img
+{
+  width: 40%;
+  float: right;
+  margin-left:20px;
+}
+.Food-img
+{
+  width: 40%;
+  float: left;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+.Food-block
+{
+  margin-top: 20px;
+  display: inline-block;
+}
+.Food-header
+{
+  margin-top: 110px;
+}
+.Contact-para
+{
+  text-align: center;
+}
+.Bottom
+{
+  background-color: #62bcc4;
+  padding: 50px 0 50px 0;
+  text-align: center;
+}
+.btn {
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+   background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+   background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+   background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+   background-image: -webkit-gradient(to bottom, #66BFBF, #66BFBF);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: font-family: 'Nunito Sans', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.button
+{
+  text-align: center;
+  margin: 70px auto;
+}
+a
+{
+  text-decoration: underline;
+  margin: 50px auto;
+  color: #005c61;
+  text-align: center;
+}
+a:hover {
+  color: #435659;
+}
+.copyright
+{
+  color : #e6f1f2;
+}
